@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/cygdrive/c/Users/ajs41/OneDrive - Missouri State University/CSC/csc232/PersonRoles/Person.cpp
+Person.h
+/cygdrive/c/Users/ajs41/OneDrive - Missouri State University/CSC/csc232/PersonRoles/Person.h
+
+/cygdrive/c/Users/ajs41/OneDrive - Missouri State University/CSC/csc232/PersonRoles/Person.h
+PersonRole.h
+/cygdrive/c/Users/ajs41/OneDrive - Missouri State University/CSC/csc232/PersonRoles/PersonRole.h
+
+/cygdrive/c/Users/ajs41/OneDrive - Missouri State University/CSC/csc232/PersonRoles/PersonRole.cpp
+PersonRole.h
+/cygdrive/c/Users/ajs41/OneDrive - Missouri State University/CSC/csc232/PersonRoles/PersonRole.h
+
+/cygdrive/c/Users/ajs41/OneDrive - Missouri State University/CSC/csc232/PersonRoles/PersonRole.h
+string
+-
+
+/cygdrive/c/Users/ajs41/OneDrive - Missouri State University/CSC/csc232/PersonRoles/main.cpp
+iostream
+-
+

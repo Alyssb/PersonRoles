@@ -1,0 +1,4 @@
+C:\Users\ajs41\.CLion2018.2\system\cygwin_cmake\bin\cmake.exe -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" "/cygdrive/c/Users/ajs41/OneDrive - Missouri State University/CSC/csc232/PersonRoles"
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /cygdrive/c/Users/ajs41/OneDrive - Missouri State University/CSC/csc232/PersonRoles/cmake-build-debug
