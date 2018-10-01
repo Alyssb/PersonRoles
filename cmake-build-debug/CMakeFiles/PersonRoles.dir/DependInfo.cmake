@@ -6,6 +6,7 @@ set(CMAKE_DEPENDS_LANGUAGES
 set(CMAKE_DEPENDS_CHECK_CXX
   "/cygdrive/c/Users/ajs41/OneDrive - Missouri State University/CSC/csc232/PersonRoles/Person.cpp" "/cygdrive/c/Users/ajs41/OneDrive - Missouri State University/CSC/csc232/PersonRoles/cmake-build-debug/CMakeFiles/PersonRoles.dir/Person.cpp.o"
   "/cygdrive/c/Users/ajs41/OneDrive - Missouri State University/CSC/csc232/PersonRoles/PersonRole.cpp" "/cygdrive/c/Users/ajs41/OneDrive - Missouri State University/CSC/csc232/PersonRoles/cmake-build-debug/CMakeFiles/PersonRoles.dir/PersonRole.cpp.o"
+  "/cygdrive/c/Users/ajs41/OneDrive - Missouri State University/CSC/csc232/PersonRoles/StudentRole.cpp" "/cygdrive/c/Users/ajs41/OneDrive - Missouri State University/CSC/csc232/PersonRoles/cmake-build-debug/CMakeFiles/PersonRoles.dir/StudentRole.cpp.o"
   "/cygdrive/c/Users/ajs41/OneDrive - Missouri State University/CSC/csc232/PersonRoles/main.cpp" "/cygdrive/c/Users/ajs41/OneDrive - Missouri State University/CSC/csc232/PersonRoles/cmake-build-debug/CMakeFiles/PersonRoles.dir/main.cpp.o"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")

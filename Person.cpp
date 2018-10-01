@@ -21,5 +21,10 @@ void Person::setName(const std::string name) {
 }
 
 void Person::setRole(const PersonRole &role) {
+    delete m_role;
+    *m_role = role; //the object being pointed to by this pointer is this object
+}
+
+void Person::listenTo(std::string message) {
 
 }
