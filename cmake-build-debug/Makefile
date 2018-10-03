@@ -204,6 +204,33 @@ StudentRole.cpp.s:
 	$(MAKE) -f CMakeFiles/PersonRoles.dir/build.make CMakeFiles/PersonRoles.dir/StudentRole.cpp.s
 .PHONY : StudentRole.cpp.s
 
+TeacherRole.o: TeacherRole.cpp.o
+
+.PHONY : TeacherRole.o
+
+# target to build an object file
+TeacherRole.cpp.o:
+	$(MAKE) -f CMakeFiles/PersonRoles.dir/build.make CMakeFiles/PersonRoles.dir/TeacherRole.cpp.o
+.PHONY : TeacherRole.cpp.o
+
+TeacherRole.i: TeacherRole.cpp.i
+
+.PHONY : TeacherRole.i
+
+# target to preprocess a source file
+TeacherRole.cpp.i:
+	$(MAKE) -f CMakeFiles/PersonRoles.dir/build.make CMakeFiles/PersonRoles.dir/TeacherRole.cpp.i
+.PHONY : TeacherRole.cpp.i
+
+TeacherRole.s: TeacherRole.cpp.s
+
+.PHONY : TeacherRole.s
+
+# target to generate assembly for a file
+TeacherRole.cpp.s:
+	$(MAKE) -f CMakeFiles/PersonRoles.dir/build.make CMakeFiles/PersonRoles.dir/TeacherRole.cpp.s
+.PHONY : TeacherRole.cpp.s
+
 main.o: main.cpp.o
 
 .PHONY : main.o
@@ -249,6 +276,9 @@ help:
 	@echo "... StudentRole.o"
 	@echo "... StudentRole.i"
 	@echo "... StudentRole.s"
+	@echo "... TeacherRole.o"
+	@echo "... TeacherRole.i"
+	@echo "... TeacherRole.s"
 	@echo "... main.o"
 	@echo "... main.i"
 	@echo "... main.s"

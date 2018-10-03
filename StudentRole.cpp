@@ -21,5 +21,5 @@ void StudentRole::procrastinate() const {
 }
 
 void StudentRole::complainTo(const Person &person) {
-    person.listenTo("I hate my teacher");
+    std::cout << "this is fine" << std::endl;
 }

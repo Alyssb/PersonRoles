@@ -98,6 +98,12 @@
 		<Unit filename="/cygdrive/c/Users/ajs41/OneDrive - Missouri State University/CSC/csc232/PersonRoles/StudentRole.h">
 			<Option target="PersonRoles"/>
 		</Unit>
+		<Unit filename="/cygdrive/c/Users/ajs41/OneDrive - Missouri State University/CSC/csc232/PersonRoles/TeacherRole.cpp">
+			<Option target="PersonRoles"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/ajs41/OneDrive - Missouri State University/CSC/csc232/PersonRoles/TeacherRole.h">
+			<Option target="PersonRoles"/>
+		</Unit>
 		<Unit filename="/cygdrive/c/Users/ajs41/OneDrive - Missouri State University/CSC/csc232/PersonRoles/main.cpp">
 			<Option target="PersonRoles"/>
 		</Unit>

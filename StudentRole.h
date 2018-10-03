@@ -10,13 +10,12 @@
 
 class StudentRole : public PersonRole {
 public:
-    StudentRole();
+    explicit StudentRole(const Person &person);
     std::string getRoleName() const override;
     void procrastinate() const;
     void complainTo(const Person &person);
 private:
-    const Person &person;
-    PersonRole *m_role;
+    const Person &m_person;
 };
 
 
